@@ -1,99 +1,166 @@
 # Hi 👋, I'm Abhiram Posham
 
-<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Problem Solver</h3>
+<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Java & Spring Boot Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Full+Stack+Developer;Spring+Boot+%26+MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Tech Computer Science Engineering Student
-* 💻 Passionate about Full-Stack Web Development and Software Engineering
-* 🚀 Building scalable applications using the MERN Stack
-* 🤖 Exploring Artificial Intelligence, Machine Learning, and Generative AI
-* 📱 Interested in Android Development with Kotlin & Jetpack Compose
-* 🧩 Enthusiastic Problem Solver and Competitive Programmer
-* 🌱 Currently learning System Design, MLOps, and Large Language Models
+🎓 B.Tech Computer Science Engineering Student
+
+💻 Passionate about Full Stack Development, Software Engineering, and AI-powered applications
+
+🚀 Building scalable applications using MERN Stack, Spring Boot, and modern web technologies
+
+🤖 Exploring Artificial Intelligence, Machine Learning, Generative AI, and MLOps
+
+☁️ Learning Cloud Computing and AWS Services
+
+📱 Interested in Android Development using Kotlin and Jetpack Compose
+
+🧩 Strong foundation in Data Structures, Algorithms, OOP, DBMS, and System Design
+
+🌱 Continuously learning and building real-world projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-### Web Development
+### Frontend Development
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
-### AI / ML
+### Backend Development
 
-![Python](https://img.shields.io/badge/Machine%20Learning-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
 
-### Tools
+### Databases
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge\&logo=androidstudio\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
+
+### Cloud & Tools
+
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 📚 Core Computer Science Concepts
+
+* Object-Oriented Programming (OOP)
+* Data Structures & Algorithms
+* Database Management Systems (DBMS)
+* Operating Systems
+* Computer Networks
+* Software Engineering
+* RESTful API Development
+* System Design Fundamentals
 
 ---
 
 ## 🚀 Current Focus
 
-* Full Stack Development with MERN
+* Full Stack Development with MERN Stack
+* Spring Boot Microservices
 * Artificial Intelligence & Generative AI
-* Machine Learning Projects
-* System Design & Software Architecture
+* Machine Learning Applications
+* Cloud Computing with AWS
+* System Design & Scalable Architectures
 * Data Structures and Algorithms
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhiram1712&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhiram1712&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiram1712&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiram1712&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiram1712&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiram1712&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🎯 Goals
+## 🎯 Goals for 2026
 
-* Build impactful AI-powered applications
+* Build Production-Ready Full Stack Applications
+* Develop AI-Powered Software Solutions
 * Contribute to Open Source Projects
-* Strengthen System Design and Backend Development skills
-* Secure Software Development and AI Engineering opportunities
+* Master System Design and Cloud Technologies
+* Secure Software Development / AI Engineering Opportunities
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-* 📧 Email: [poshamabhiram@gmail.com](mailto:poshamabhiram@gmail.com)
-* 💼 LinkedIn: https://linkedin.com/in/abhiram-posham-9701402b9/
-* 🐙 GitHub: https://github.com/Abhiram1712
+<p align="left">
+<a href="https://github.com/Abhiram1712" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abhiram-posham-9701402b9/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:poshamabhiram@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/Abhiram1712/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+</p>
 
 ---
 
 ### ⚡ Fun Fact
 
-> I enjoy turning ideas into real-world projects and continuously learning new technologies to become a better developer every day.
+> I enjoy building projects that combine software engineering and AI, turning ideas into real-world solutions while continuously learning new technologies.
