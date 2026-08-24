@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abhiram Posham
 
-<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Java & Spring Boot Developer</h3>
+<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | MERN Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Full+Stack+Developer;Spring+Boot+%26+MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
